@@ -22,6 +22,7 @@ scikit-learn==0.16.1
 scipy==0.15.1
 seaborn==0.6.0
 six==1.9.0
+dt==2.3.3
 sympy==0.7.6
 terminado==0.5
 tornado==4.2
